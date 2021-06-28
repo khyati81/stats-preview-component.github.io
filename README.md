@@ -1,4 +1,4 @@
-# stats-preview-component.github.io
+
 
 # Frontend Mentor - Stats preview card component
 
